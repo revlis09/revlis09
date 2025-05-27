@@ -1,4 +1,5 @@
-## 배우고, 깨닫고, 성장하는 중입니다.🌱👩🏻‍💻
+## HI I'M GAEUN 🌱
+👩🏻‍💻 배우고, 깨닫고, 성장하는 중입니다.
 
 <!--
 **revlis09/revlis09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
